@@ -1,5 +1,5 @@
 - 👋 Olá! Eu sou o Ramires Filho
-- 👀 I’m interested in ...
+- 👀 Html, Css, JavaScript
 - 🌱 Estudando front-end
 
 <div align="center">
