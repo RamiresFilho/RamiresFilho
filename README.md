@@ -1,6 +1,6 @@
-- 👋 Olá! Eu sou o Ramires Filho
-- 👀 estou interessado em aprender front-end
-- 🌱 Estudando Html, Css, JavaScript
+- 👋 Olá! Eu sou o Ramires Filho, atualmente estou estagiando na área de infraestrutura e operações.
+- 👀 Estou interessado em aprender front-end.
+- 🌱 Estudando Html, Css, JavaScript & POO!
 
 <div align="center">
   <a href="https://github.com/ramiresfilho">
