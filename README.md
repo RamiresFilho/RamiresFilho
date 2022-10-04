@@ -13,3 +13,9 @@
    <a href="https://www.linkedin.com/in/ramires-filho-37a51b1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
 </div>   
+
+<br>
+ 
+  ![Animação de cobra](https://github.com/Claudio128/Claudio128/blob/output/github-contribution-grid-snake.svg)
+
+</div>
