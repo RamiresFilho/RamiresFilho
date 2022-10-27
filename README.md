@@ -2,11 +2,10 @@
 - 👀 Estou interessado em aprender front-end.
 - 🌱 Estudando Html, Css, JavaScript & POO!
 
-<div align="center">
+<div>
   <a href="https://github.com/RamiresFilho">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RamiresFilho&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiresFilho&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamiresFilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiresFilho&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
