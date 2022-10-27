@@ -3,9 +3,10 @@
 - 🌱 Estudando Html, Css, JavaScript & POO!
 
 <div align="center">
-  <a href="https://github.com/ramiresfilho">
-  <img width="45%" height="45%" src="https://github-readme-stats.vercel.app/api?username=ramiresfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="54%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiresfilho&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
