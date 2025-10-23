@@ -1,9 +1,9 @@
 <h1 align="center">Olá! Eu sou o Ramires 🙋☕</h1>
 
- <h2>Sobre mim</h2> 
-Formado em Análise e Desenvolvimento de Sistemas, com mais de 3 anos atuando como Suporte de TI no geral.<br>
-Focado no Back-end para buscar novas oportunidades e com um bom conhecimento em Front-end.<br>
-Estou direcionando minha carreira para o Java, priorizando o domínio da lógica de programação e algoritmos como base.
+ <h2>Sobre mim</h2>
+Graduado em ADS, com sólida experiência em Suporte Técnico N1/N2, Administração de Sistemas e Infraestrutura de TI.<br><br>
+Estou em transição de carreira para a área de Desenvolvimento, com foco atual em Back-end Java.<br><br>
+Busco minha primeira oportunidade (Estágio ou Assistente) para aplicar minha base técnica em um novo desafio no desenvolvimento de software.
 
 <h2>Redes Sociais</h2>
 
