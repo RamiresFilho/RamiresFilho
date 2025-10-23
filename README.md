@@ -39,4 +39,4 @@ Busco minha primeira oportunidade (Estágio ou Assistente) para aplicar minha ba
 <h2>Conecte-se comigo</h2>
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamiresFilho)
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ramires-filho-tech/)
