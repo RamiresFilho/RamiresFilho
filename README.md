@@ -27,9 +27,13 @@ Busco minha primeira oportunidade (Estágio ou Assistente) para aplicar minha ba
 <div align="center">
   <a href="https://github.com/RamiresFilho">
   <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RamiresFilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RamiresFilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiresFilho&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
+
+![Animação de cobra](https://github.com/RamiresFilho/RamiresFilho/blob/output/github-contribution-grid-snake.svg)
+
+<br>
  
 <h2>Sistema operacional</h2>
 <br>
